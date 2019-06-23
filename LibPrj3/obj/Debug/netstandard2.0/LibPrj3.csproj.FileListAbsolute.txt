@@ -1,0 +1,8 @@
+C:\Users\User\source\repos2\FirstSln\LibPrj3\bin\Debug\netstandard2.0\LibPrj3.deps.json
+C:\Users\User\source\repos2\FirstSln\LibPrj3\bin\Debug\netstandard2.0\LibPrj3.dll
+C:\Users\User\source\repos2\FirstSln\LibPrj3\bin\Debug\netstandard2.0\LibPrj3.pdb
+C:\Users\User\source\repos2\FirstSln\LibPrj3\obj\Debug\netstandard2.0\LibPrj3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos2\FirstSln\LibPrj3\obj\Debug\netstandard2.0\LibPrj3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos2\FirstSln\LibPrj3\obj\Debug\netstandard2.0\LibPrj3.AssemblyInfo.cs
+C:\Users\User\source\repos2\FirstSln\LibPrj3\obj\Debug\netstandard2.0\LibPrj3.dll
+C:\Users\User\source\repos2\FirstSln\LibPrj3\obj\Debug\netstandard2.0\LibPrj3.pdb
